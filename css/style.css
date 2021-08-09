@@ -1580,7 +1580,7 @@ h6 {
 }
 
 #footer {
-  padding: 50px 0;
+  padding: 10px 0;
   color: #7f7f7f;
 }
 #footer .copyright {
@@ -1924,6 +1924,7 @@ h6 {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
+  background: beige;
 }
 @media screen and (max-width: 480px) {
   .couple-half .groom,
@@ -1936,6 +1937,7 @@ h6 {
     width: 120px;
     height: 120px;
     margin: 0 auto;
+    background: beige;
   }
 }
 .couple-half .groom {
